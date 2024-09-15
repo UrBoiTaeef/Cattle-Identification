@@ -1,18 +1,4 @@
 One Shot Learning for Cattle Identification
-This repository contains the implementation of a One Shot Learning model aimed at recognizing individual cattle based on their muzzle prints. The project focuses on solving the problem of limited data availability by training a model that can identify new classes with only a few examples.
-
-Table of Contents
-Introduction
-Dataset
-Preprocessing
-Model Architecture
-One Shot Task
-Results
-Installation
-Usage
-Contributing
-License
-
 
 Introduction
 One Shot Learning is a machine learning technique where models are trained to recognize objects or patterns with minimal examples. Unlike traditional models that require large amounts of labeled data, one-shot models learn from a few samples. This approach is especially useful in scenarios where obtaining large datasets is challenging, such as biometric recognition.
